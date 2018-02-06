@@ -1,0 +1,23 @@
+{
+  "name": "senkawa-chihiro",
+  "version": "1.0.0",
+  "description": "ちひろさんは天使。わかるね?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassesfactory/senkawa-chihiro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glassesfactory/senkawa-chihiro/issues"
+  },
+  "homepage": "https://github.com/glassesfactory/senkawa-chihiro#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "recompose": "^0.26.0"
+  }
+}
